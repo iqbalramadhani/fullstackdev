@@ -1,0 +1,128 @@
+{
+  "Header": {
+    "title": "Welcome My Website",
+    "paragraph": "Ini adalah halaman dari landing page"
+  },
+  "About": {
+    "paragraph": "Kami akan memberikan layanan terbaik dengan teknologi terkini dalam menunjang bisnis anda dengan berbagai macam fitur dan desain dalam menunjang bisnis anda"
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/gambar1.jpeg",
+      "smallImage": "img/gambar1.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/gambar2.jpeg",
+      "smallImage": "img/gambar2.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/gambar3.jpeg",
+      "smallImage": "img/gambar3.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cloud",
+      "name": "Cloud",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Wordpress",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Market Place",
+      "text": ""
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Jl. Delta 3 Kav 4, Cigadung, Cibeunying Kaler, Bandung",
+    "phone": "+62 813 952 38295",
+    "email": "iqbal.ramadhani55@gmail.com",
+    "facebook": "https://www.facebook.com/iqbal.ramadhani.79",
+    "instagram": "https://www.instagram.com/iqbalzhafirah21/",
+    "github": "https://github.com/iqbalramadhani/",
+    "linkedin": "https://www.linkedin.com/in/iqbal-r-ab680411a/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Fitur Chat",
+      "text": "Fitur chat untuk kemudahan dalam berkomunikasi."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Notif",
+      "text": "Notif untuk pemberitahuan pesan ataupun aksi yang masuk"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Pemberitahuan Grup",
+      "text": "Kemudahan unntuk berbagi informasi dalam satu kelompok atau komunitas."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Halaman Custom",
+      "text": "Desain template sesuai dengan keingin anda."
+    }
+  ]
+}
