@@ -13,14 +13,14 @@
       "smallImage": "img/gambar1.jpeg"
     },
     {
+      "title": "Market Place",
+      "largeImage": "img/marketplace.jpeg",
+      "smallImage": "img/marketplace.jpeg"
+    },
+    {
       "title": "WordPress",
       "largeImage": "img/gambar2.jpeg",
       "smallImage": "img/gambar2.jpeg"
-    },
-    {
-      "title": "Market Place",
-      "largeImage": "img/gambar3.jpeg",
-      "smallImage": "img/gambar3.jpeg"
     }
   ],
   "Services": [
