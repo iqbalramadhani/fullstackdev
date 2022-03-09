@@ -8,17 +8,17 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Cloud",
       "largeImage": "img/gambar1.jpeg",
       "smallImage": "img/gambar1.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "WordPress",
       "largeImage": "img/gambar2.jpeg",
       "smallImage": "img/gambar2.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Market Place",
       "largeImage": "img/gambar3.jpeg",
       "smallImage": "img/gambar3.jpeg"
     }
